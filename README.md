@@ -46,7 +46,7 @@ A web-based system designed to support health center operations.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/YOUR-USERNAME
-- LinkedIn: Add your LinkedIn profile URL
+- LinkedIn:(https://et.linkedin.com/in/fikadu-guye-70202031b)
 - Portfolio: Coming soon
 
 ---
